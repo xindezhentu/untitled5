@@ -12,6 +12,7 @@ public class Test {
         System.out.println("hot-fix1");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("gitee");
 
     }
 }
